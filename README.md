@@ -1,1 +1,2 @@
 # Loan-approval-data-insides-dashboard
+The Loan Approval Dashboard provides an overview of key lending metrics, including total applicants, approved and rejected loans, and the overall approval rate. It features filters for employment type and loan purpose, along with visualizations such as credit score by age, approval trends by employment, loan amount vs. approval status, and a breakdown of approval categories. The dashboard also highlights loan purposes by gender, helping users quickly analyze applicant behavior and approval patterns.
